@@ -1,6 +1,6 @@
 {
   "name": "win-select-folder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Windows FolderBrowserDialog Form.",
   "main": "dist/select-folder.js",
   "module": "select-folder.js",
