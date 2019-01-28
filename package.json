@@ -2,7 +2,8 @@
   "name": "win-select-folder",
   "version": "1.0.0",
   "description": "Windows FolderBrowserDialog Form.",
-  "main": "dist/index.js",
+  "main": "dist/select-folder.js",
+  "module": "select-folder.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "c": "rollup -c"
