@@ -26,7 +26,7 @@
   "homepage": "https://github.com/vandeurenglenn/win-select-folder#readme",
   "dependencies": {},
   "devDependencies": {
-    "rollup": "^1.1.2",
+    "rollup": "^2.79.2",
     "rollup-plugin-cleanup": "^3.1.1",
     "rollup-plugin-terser": "^7.0.2"
   }
